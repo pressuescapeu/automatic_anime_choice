@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "131738185998",
+    "project_id": "automatic-anime-choice",
+    "storage_bucket": "automatic-anime-choice.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:131738185998:android:ab6ca3e53a00e6d947a75f",
+        "android_client_info": {
+          "package_name": "com.example.automatic_anime_choice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "131738185998-0ecqtksb9e18grumr4tl23khqeahj9qa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAo7jPZmIlN9PntSgCV8xLrZcQ7qnPbwNk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "131738185998-0ecqtksb9e18grumr4tl23khqeahj9qa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
